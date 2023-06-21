@@ -2,6 +2,6 @@ package cool2
 
 import "fmt"
 
-func myCoolFunction() {
+func MyCoolFunction() {
 	fmt.Println("ES GEHT AUCH!")
 }

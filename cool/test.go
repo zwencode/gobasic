@@ -2,6 +2,6 @@ package cool
 
 import "fmt"
 
-func myFunction() {
+func MyFunction() {
 	fmt.Println("JUHUUU ES GEHT")
 }
