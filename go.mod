@@ -1,3 +1,3 @@
-module github.com/zwencode/gobasic.git
+module github.com/zwencode/gobasic
 
 go 1.20
